@@ -8,7 +8,7 @@ Mental_wellness_chatbot/
     ├── DATASET/
 		    ├── Training.xlsx
 		    ├── Validation.xlsx
-		├── Original_CNN_BiLSTM_Attention.ipynb      # -중간발표용 감정 분석 모델 (초안)
+    ├── Original_CNN_BiLSTM_Attention.ipynb      # -중간발표용 감정 분석 모델 (초안)
     ├── Proposal_CNN_BiLSTM_Attention.ipynb      # -최종발표용 감정 분석 모델 (개선 ver)
     ├── create_sen.ipynb                         # -문장 생성 모델 학습 & 저장 ipynb
     ├── demo_chatbot.ipynb                       # -문장 생성 모델 시연 ipynb
