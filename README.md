@@ -1,7 +1,8 @@
 # 🧠 Emotion Classification ResponseGen
 감성 대화 말뭉치를 활용하여 사용자의 감정을 분류 학습하고, 대화 흐름에 따른 감정 변화 분석과 감정 기반 응답 생성을 수행하는 정신상담 AI를 개발하는 프로젝트
 
-# Mental_wellness_chatbot
+---
+## Mental_wellness_chatbot
 한국어 감성 대화 데이터 기반 감정 분석 및 문장 생성 프로젝트
 - 모델: CNN + BiLSTM + Attention (PyTorch 직접 구현)
 - 데이터: AI-Hub 감성 대화 말뭉치 (6개 감정 클래스)
